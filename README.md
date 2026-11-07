@@ -1,26 +1,48 @@
-<!-- twofern2ndes / GitHub profile --><div align="left"><sub>SOFTWARE DEVELOPMENT   /   CYBERSECURITY   /   ARTIFICIAL INTELLIGENCE</sub>
-twofern2ndes.
-Kauê Fernandes
-Software Developer · Cybersecurity · Networks · AI
-Building software. Understanding systems. Exploring security and intelligence.
+<!-- Minimal, typography-first GitHub profile. No external assets required. -->
 
-01 / ABOUT
-I'm a developer from Brazil with a technical background in Systems Development and a strong interest in computer networks, cybersecurity, artificial intelligence, and systems engineering.
+<div align="left">
 
-I work with Go, Python, and Luau, exploring automation, backend development, operating systems, and practical applications of AI.
+<sub>SOFTWARE DEVELOPMENT &nbsp; / &nbsp; CYBERSECURITY &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE</sub>
 
-My approach is simple: understand how things work, build thoughtfully, and keep improving through real projects.
-02 / FOCUS
-01  CYBERSECURITY          Offensive & defensive security concepts
-02  COMPUTER NETWORKS      Protocols, infrastructure & troubleshooting
-03  ARTIFICIAL INTELLIGENCE  AI tooling, agents & automation
-04  SOFTWARE ENGINEERING   Go, Python, Luau & backend systems
-03 / SELECTED WORK
-Delícias de Leite — Jovelino
-Website project for a real artisanal dairy business. (Repository under development.)
+# twofern2ndes<span>.</span>
 
-More technical projects will be added here as they are published.
-04 / PRINCIPLES
-Clarity over noise.   Security by design.   Build, test, document.
-<sub>BASED IN BRAZIL   ·   OPEN TO LEARNING, BUILDING & COLLABORATING</sub>
+**Kauê Fernandes**  
+Software Developer · Cybersecurity · Computer Networks · AI
+
+*Building software. Understanding systems. Exploring security and intelligence.*
+
 </div>
+
+---
+
+### 01 / About
+
+I'm a developer based in Brazil with a technical background in **Systems Development** and a focus on **computer networks, cybersecurity, artificial intelligence, and software engineering**.
+
+I work with **Go, Python, and Luau**, exploring backend development, automation, operating systems, and practical AI tooling.
+
+My approach: understand how things work, build thoughtfully, and document what matters.
+
+### 02 / Areas of focus
+
+| Domain | Interests |
+| :--- | :--- |
+| **Cybersecurity** | Offensive & defensive security concepts · Security analysis |
+| **Computer Networks** | Protocols · Infrastructure · Troubleshooting |
+| **Artificial Intelligence** | LLM tooling · Agents · Workflow automation |
+| **Software Engineering** | Go · Python · Luau · Backend systems |
+
+### 03 / Selected work
+
+**[Delícias de Leite — Jovelino](https://github.com/twofern2ndes/delicias-de-leite-jovelino)**  
+Website for a real artisanal dairy business. *Under development.*
+
+Additional projects will be featured as they are published and documented.
+
+### 04 / Principles
+
+`Clarity over noise.` &nbsp; `Security by design.` &nbsp; `Build. Test. Document.`
+
+---
+
+<sub>BASED IN BRAZIL &nbsp; · &nbsp; OPEN TO LEARNING, BUILDING & COLLABORATION</sub>
