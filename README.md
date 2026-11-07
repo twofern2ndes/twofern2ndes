@@ -32,15 +32,6 @@ My approach: understand how things work, build thoughtfully, and document what m
 | **Artificial Intelligence** | LLM tooling · Agents · Workflow automation |
 | **Software Engineering** | Go · Python · Luau · Backend systems |
 
-### 03 / Selected work
-
-**[Delícias de Leite — Jovelino](https://github.com/twofern2ndes/delicias-de-leite-jovelino)**  
-Website for a real artisanal dairy business. *Under development.*
-
-Additional projects will be featured as they are published and documented.
-
-### 04 / Principles
-
 `Clarity over noise.` &nbsp; `Security by design.` &nbsp; `Build. Test. Document.`
 
 ---
